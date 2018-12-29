@@ -364,6 +364,8 @@ case $1 in
    echo
 esac
 
+
+## LEGENDS...
 #HONEYPOT
 #REDIRECT CONEXÕES ESTABELECIDAS (BACKDOOR) PARA A POLICIA OU PARA O PROPRIO ATACANTE
 #Comumento estou reirecionando para outra VPN cou máquna virtual com malware ou algo referente
