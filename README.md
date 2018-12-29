@@ -2,6 +2,7 @@
 
 ### v0.70
 ##### Redirect para Policia (Delegacia Civil de Crimes Eletronicos)
+##### Honeypot e FIngerPrint do atacante
 
 <pre>
 lll                                    dd      
