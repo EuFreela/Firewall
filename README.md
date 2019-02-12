@@ -16,3 +16,10 @@ lll  eeeee      gg  eeeee nn   nn  dddddd     s
                             Adaptado de T4K3D0WN
 
 </pre>
+
+<hr>
+
+<p>Uso:</p>
+<pre>
+sudo bash legends.sh start
+</pre>
